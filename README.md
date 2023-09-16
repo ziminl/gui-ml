@@ -1,8 +1,5 @@
 # gui-ml
-""
 
-#usage
 pip install matplotlib
 
-#description
-use in ur own
+i didnt use matplotlib lot so practicing it
